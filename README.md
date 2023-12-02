@@ -29,7 +29,7 @@
 ## 
 > [!NOTE]
 > ### Demo<br>
-> ![2023-12-02_10-31-27](https://github.com/Xiang511/Model/assets/120042360/8654f7d7-be92-4479-bf1a-ecf2df5a2a50)<br>
+> ![2023-12-02_10-45-49](https://github.com/Xiang511/Model/assets/120042360/8a6a08e7-e075-4816-80f0-491f494ae37d)<br>
 > Gif無法展示太多細節<br>
 前往sketchfab觀看 <br>
 https://skfb.ly/oEGCr
