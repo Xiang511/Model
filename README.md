@@ -29,9 +29,13 @@
 ## 
 > [!NOTE]
 > ### Demo<br>
-> ![2023-12-02_10-45-49](https://github.com/Xiang511/Model/assets/120042360/8a6a08e7-e075-4816-80f0-491f494ae37d)<br>
-> Gif無法展示太多細節<br>
-前往sketchfab觀看 <br>
+> 
+
+https://github.com/Xiang511/Model/assets/120042360/ca7fde38-5a9a-46fd-af23-7059531bf924
+
+<br>
+> 影片無法展示太多細節<br>
+可以前往sketchfab觀看 <br>
 https://skfb.ly/oEGCr
 
 
