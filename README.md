@@ -27,16 +27,11 @@
 > 坦克傾斜裝甲的部分有點難度但我還是克服了<br>
 > 坦克身上的配件看的到的我都加上去了，除了探照燈，我左調右調看起來還是很怪，所以我就沒放了
 ## 
-> [!NOTE]
-> ### Demo<br>
-> 
+> #### Demo<br><br><a href="https://skfb.ly/oEGCr">Sketchfab </a>
 
-https://github.com/Xiang511/Model/assets/120042360/ca7fde38-5a9a-46fd-af23-7059531bf924
-
+> https://github.com/Xiang511/Model/assets/120042360/ca7fde38-5a9a-46fd-af23-7059531bf924
 <br>
-> 影片無法展示太多細節<br>
-可以前往sketchfab觀看 <br>
-https://skfb.ly/oEGCr
+
 
 
 ## 
